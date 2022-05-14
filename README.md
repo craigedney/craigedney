@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Frontend Engineer @britishcycling. Currently helping to lead frontend digital transformation project with new design system.
+
 <!--
 **craigedney/craigedney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

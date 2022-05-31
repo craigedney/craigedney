@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Engineer @britishcycling. 
+Full Stack JavaScript @britishcycling. 
 
 Currently helping to lead frontend digital transformation project, incl. building new design system, redefining processes and infrastructure.
 

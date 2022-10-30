@@ -4,6 +4,7 @@ Full Stack JavaScript @britishcycling.
 
 Currently helping to lead frontend digital transformation project, incl. building new design system, redefining processes and infrastructure.
 
+Mad about music production.
 <!--
 **craigedney/craigedney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
